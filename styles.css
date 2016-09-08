@@ -1,0 +1,36 @@
+/* CSS Document */
+
+.w3-container{
+	max-width: 1060px;
+	margin: 5px auto;
+}
+
+.w3-card-12{
+	display:inline-block;
+	background-color: #f7ebfa;
+	vertical-align: top;
+	margin: 1%;
+	width: 100%;
+}
+
+body{
+	font-family: "Comic Sans MS";
+	background-image: url("lgrey005.jpg");
+}
+
+h1,h2,h3{
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	color: midnightblue;
+}
+
+footer{
+	color: midnightblue;
+}
+
+.img{
+	max-width:100%;
+	display: block;
+	height: auto;
+	margin:  auto;
+}
